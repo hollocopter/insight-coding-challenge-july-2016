@@ -1,0 +1,2 @@
+This test covers the case where a transaction is evicted, but there is a remaining transaction for this edge still in the window.
+Then it refreshes the same case without the remaining window transaction.

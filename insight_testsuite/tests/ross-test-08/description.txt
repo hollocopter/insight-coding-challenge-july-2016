@@ -1,0 +1,1 @@
+This test builds a dense graph and then drops all of those transactions out of the window.

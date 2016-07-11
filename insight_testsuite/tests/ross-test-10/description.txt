@@ -1,0 +1,1 @@
+Same as test 04 but with the duplicate transaction reversed (switched actor and target), to make sure that doesn't matter.
